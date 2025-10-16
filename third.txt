@@ -1,0 +1,2 @@
+This is my third git demo.
+Modified file to check git add . command
