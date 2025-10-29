@@ -1,2 +1,2 @@
 this is fetch demo 
-this is updated file for pull command
+this is updated file for pull command demo.
